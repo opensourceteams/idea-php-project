@@ -47,6 +47,16 @@ echo "Hello World!";
 
 ```
 
+### 配置
+
+- https://github.com/opensourceteams/idea-php-project/blob/master/md/images/1.png
+- https://github.com/opensourceteams/idea-php-project/blob/master/md/images/2.png
+![](https://github.com/opensourceteams/idea-php-project/blob/master/md/images/1.png)   
+![](https://github.com/opensourceteams/idea-php-project/blob/master/md/images/2.png)   
+
+
+
+
 ### 运行 a.php文件
    
 - https://github.com/opensourceteams/idea-php-project/blob/master/md/images/a.php.png
