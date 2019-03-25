@@ -29,6 +29,27 @@ brew install php
  /usr/local/Cellar/php/7.3.3/bin/php -v
 
 ```
+
+
+### a.php
+```aidl
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
+
+
+```
+
+### 运行 a.php文件
    
+- https://github.com/opensourceteams/idea-php-project/blob/master/md/images/a.php.png
+![](https://github.com/opensourceteams/idea-php-project/blob/master/md/images/a.php.png)   
 
        
